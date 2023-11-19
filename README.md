@@ -37,7 +37,7 @@ During my leisure hours, I engage in the art of bodybuilding, infusing both pass
 </p>
 
 ## 👨‍💻 Languages && Technologies
-<p>
+<div style="display: flex; justify-content: space-between; flex-wrap: wrap;">
 
 [![MongoDB](https://custom-icon-badges.demolab.com/badge/-MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)](https://www.mongodb.com/)
 [![Node.js](https://custom-icon-badges.demolab.com/badge/-Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)](https://nodejs.org/)
@@ -59,7 +59,7 @@ During my leisure hours, I engage in the art of bodybuilding, infusing both pass
 ![](https://custom-icon-badges.demolab.com/badge/php-777BB4?logo=php&logoColor=white&style=for-the-badge)
 ![](https://custom-icon-badges.demolab.com/badge/laravel-FF2D20?logo=laravel&logoColor=white&style=for-the-badge)
 ![](https://custom-icon-badges.demolab.com/badge/blazor-512BD4?logo=blazor&logoColor=white&style=for-the-badge)
-</p>
+</div>
 
 
 ## 🐱‍👓 My workspace
