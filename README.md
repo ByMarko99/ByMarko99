@@ -1,11 +1,11 @@
-### Hi there 👋
-<!--
-**ByMarko99/ByMarko99** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h1 align="center" style="color:#FBCC09;">ByMarko99 the Coding Ninja</h1>
 
-Here are some ideas to get you started:
+![Header Image](header.gif)
+
+<!-- Img creds: https://cannonbreed.newgrounds.com/
 -->
 
-**`Full Stack Developer (Developer//Creator)`**
+**`Full Stack Developer (Developer/Creator/Bodybuilder)`**
 
 I'm an indie full-stack developer and content creator building my version of the digital world one step at a time. All coding projects are built from the ground up, from planning and designing all the way to solving real-life problems with code. All video content is built the same way, from ideation and planning, all the way to finalizing the content with artistic touches.
 
@@ -17,14 +17,11 @@ I'm an indie full-stack developer and content creator building my version of the
    </p>
 
 ---
-- 🔭 I’m currently working on developing my coding skills through intensive learning and completing my CV by training and achieving new certifications as a student
+- 🔭 I’m currently working on developing my coding skills through intensive learning and completing my CV by training and achieving new certifications as a student.
+- 🌀 I’m currently learning different frameworks such as Laravel, Blazor, or Angular.
+- 🐱‍👤 Fun fact: I'm the coding ninja who combines keystrokes with kettlebells, mastering both the virtual and physical realms!
+- ⛩️ Ask me about anything you want to!
+- 📫 How to reach me: markoalmeida4@gmail.com
 
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
 
 ![ByMarko99's GitHub stats](https://github-readme-stats.vercel.app/api?username=ByMarko99&theme=merko&show_icons=true)
