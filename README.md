@@ -37,28 +37,49 @@ During my leisure hours, I engage in the art of bodybuilding, infusing both pass
 </p>
 
 ## 👨‍💻 Languages && Technologies
-<div style="display: flex; justify-content: space-between; flex-wrap: wrap;">
+<div style="display: flex;  flex-wrap: wrap;">
+<!-- MongoDB Badge -->
+<img src="https://custom-icon-badges.demolab.com/badge/-MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB">
 
-[![MongoDB](https://custom-icon-badges.demolab.com/badge/-MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)](https://www.mongodb.com/)
-[![Node.js](https://custom-icon-badges.demolab.com/badge/-Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)](https://nodejs.org/)
-![Uses Shields.io](https://custom-icon-badges.demolab.com/badge/-Uses_Shields.io-000000?style=for-the-badge&logo=shieldsiobadge&logoColor=white)
-![](https://custom-icon-badges.demolab.com/badge/java-007396?style=for-the-badge&logo=java&logoColor=white)
-![](https://custom-icon-badges.demolab.com/badge/kotlin-0095D5?style=for-the-badge&logo=kotlin&logoColor=white)
-![](https://custom-icon-badges.demolab.com/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![](https://custom-icon-badges.demolab.com/badge/ajax-0057B8?style=for-the-badge&logo=ajax&logoColor=white)
-![](https://custom-icon-badges.demolab.com/badge/json-000000?style=for-the-badge&logo=json&logoColor=white)
-![](https://custom-icon-badges.demolab.com/badge/csharp-239120?style=for-the-badge&logo=csharp&logoColor=white)
-![](https://custom-icon-badges.demolab.com/badge/c-A8B9CC?style=for-the-badge&logo=c&logoColor=white)
-![](https://custom-icon-badges.demolab.com/badge/html5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![](https://custom-icon-badges.demolab.com/badge/css3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![](https://custom-icon-badges.demolab.com/badge/bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
-![](https://custom-icon-badges.demolab.com/badge/tailwind-38B2AC?style=for-the-badge&logo=tailwind&logoColor=white)
-![](https://custom-icon-badges.demolab.com/badge/xml-FC3232?style=for-the-badge&logo=xml&logoColor=white)
-![](https://custom-icon-badges.demolab.com/badge/mysql-4479A1?logo=mysql&logoColor=white&style=for-the-badge)
-![](https://custom-icon-badges.demolab.com/badge/mariadb-003545?logo=mariadb&logoColor=white&style=for-the-badge)
-![](https://custom-icon-badges.demolab.com/badge/php-777BB4?logo=php&logoColor=white&style=for-the-badge)
-![](https://custom-icon-badges.demolab.com/badge/laravel-FF2D20?logo=laravel&logoColor=white&style=for-the-badge)
-![](https://custom-icon-badges.demolab.com/badge/blazor-512BD4?logo=blazor&logoColor=white&style=for-the-badge)
+<!-- Node.js Badge -->
+<img src="https://custom-icon-badges.demolab.com/badge/-Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js">
+
+ <img src="https://custom-icon-badges.demolab.com/badge/-Uses_Shields.io-000000?style=for-the-badge&logo=shieldsiobadge&logoColor=white" alt="Uses Shields.io">
+
+<img src="https://custom-icon-badges.demolab.com/badge/java-007396?style=for-the-badge&logo=java&logoColor=white" alt="Java">
+
+<img src="https://custom-icon-badges.demolab.com/badge/kotlin-0095D5?style=for-the-badge&logo=kotlin&logoColor=white" alt="Kotlin">
+
+ <img src="https://custom-icon-badges.demolab.com/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript">
+
+ <img src="https://custom-icon-badges.demolab.com/badge/ajax-0057B8?style=for-the-badge&logo=ajax&logoColor=white" alt="AJAX">
+
+ <img src="https://custom-icon-badges.demolab.com/badge/json-000000?style=for-the-badge&logo=json&logoColor=white" alt="JSON">
+
+<img src="https://custom-icon-badges.demolab.com/badge/csharp-239120?style=for-the-badge&logo=csharp&logoColor=white" alt="C#">
+
+<img src="https://custom-icon-badges.demolab.com/badge/c-A8B9CC?style=for-the-badge&logo=c&logoColor=white" alt="C">
+
+ <img src="https://custom-icon-badges.demolab.com/badge/html5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5">
+
+ <img src="https://custom-icon-badges.demolab.com/badge/css3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3">
+
+<img src="https://custom-icon-badges.demolab.com/badge/bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap">
+
+<img src="https://custom-icon-badges.demolab.com/badge/tailwind-38B2AC?style=for-the-badge&logo=tailwind&logoColor=white" alt="Tailwind CSS">
+
+<img src="https://custom-icon-badges.demolab.com/badge/xml-FC3232?style=for-the-badge&logo=xml&logoColor=white" alt="XML">
+
+ <img src="https://custom-icon-badges.demolab.com/badge/mysql-4479A1?logo=mysql&logoColor=white&style=for-the-badge" alt="MySQL">
+
+<img src="https://custom-icon-badges.demolab.com/badge/mariadb-003545?logo=mariadb&logoColor=white&style=for-the-badge" alt="MariaDB">
+
+<img src="https://custom-icon-badges.demolab.com/badge/php-777BB4?logo=php&logoColor=white&style=for-the-badge" alt="PHP">
+
+<img src="https://custom-icon-badges.demolab.com/badge/laravel-FF2D20?logo=laravel&logoColor=white&style=for-the-badge" alt="Laravel">
+
+<img src="https://custom-icon-badges.demolab.com/badge/blazor-512BD4?logo=blazor&logoColor=white&style=for-the-badge" alt="Blazor">
+
 </div>
 
 
