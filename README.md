@@ -73,11 +73,10 @@ During my leisure hours, I engage in the art of bodybuilding, infusing both pass
 
 ## 📊 Stats
 
-<p float="left">
+<p align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=ByMarko99&theme=merko&show_icons=true" height="250" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ByMarko99&theme=merko&show_icons=true" height="250" /> 
 </p>
-</body>
 
 
 ## 🤳 Social
@@ -92,3 +91,4 @@ During my leisure hours, I engage in the art of bodybuilding, infusing both pass
 If you want to support my projects, you can do it here <3
 
 [![Donate](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/bymarko99) [![Donate](https://img.shields.io/badge/Buy_Me_A_Coffee-ff5e5b?style=for-the-badge&logo=buy-me-a-coffee&logoColor=white)](https://ko-fi.com/bymarko99)
+</body>
