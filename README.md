@@ -34,7 +34,7 @@ During my leisure hours, I engage in the art of bodybuilding, infusing both pass
       <img alt="repositories" title="My GitHub Repositories" src="https://custom-icon-badges.demolab.com/badge/dynamic/json?color=yellow&label=Repositories&query=$.public_repos&url=https://api.github.com/users/ByMarko99&style=for-the-badge&logo=github&logoColor=yellow"/>
    </a>
    <a href="https://github.com/ByMarko99">
-      <img alt="ByMarko99's GitHub stats" src="https://komarev.com/ghpvc/?username=ByMarko99&color=FBCC09&style=for-the-badge"/>
+      <img alt="ByMarko99's GitHub stats" title="My Profile Views" src="https://komarev.com/ghpvc/?username=ByMarko99&color=FBCC09&style=for-the-badge"/>
    </a>
 </p>
 
