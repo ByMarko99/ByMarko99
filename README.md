@@ -7,12 +7,9 @@
 <!-- Img creds: https://cannonbreed.newgrounds.com/
 -->
 
-<p align="center">
+### 🐱‍👤 About Me
 
 ***`Full Stack Developer (Developer/Creator/Bodybuilder)`***
-
-<p>
-## 🐱‍👤 About Me
 
 I am a self-driven full-stack developer and innovative content architect, crafting my unique digital universe with each endeavor. Every coding venture is meticulously constructed, starting with conceptualization and design, and culminating in the application of code to address real-world challenges. 
 
