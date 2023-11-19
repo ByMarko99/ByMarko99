@@ -1,7 +1,7 @@
 <body style="background-image: url('bc.gif'); background-repeat: repeat;">
 
-<h1 align="center" style="color:#FBCC09;">ByMarko99 the Coding Ninja</h1>
-
+<!-- <h1 align="center" style="color:#FBCC09;">ByMarko99 the Coding Ninja</h1>
+ -->
 ![Header Image](header.gif)
 
 <!-- Img creds: https://cannonbreed.newgrounds.com/
