@@ -39,9 +39,7 @@ During my leisure hours, I engage in the art of bodybuilding, infusing both pass
 ## 👨‍💻 Languages && Technologies
 <p>
 
-[![MongoDB](https://custom-icon-badges.demolab.com/badge/-MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)](https://www.mongodb.com/)
-[![Node.js](https://custom-icon-badges.demolab.com/badge/-Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)](https://nodejs.org/)
-![Uses Shields.io](https://custom-icon-badges.demolab.com/badge/-Uses_Shields.io-000000?style=for-the-badge&logo=shieldsiobadge&logoColor=white)
+[![](https://custom-icon-badges.demolab.com/badge/-Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)](https://nodejs.org/)
 ![](https://custom-icon-badges.demolab.com/badge/java-007396?style=for-the-badge&logo=java&logoColor=white)
 ![](https://custom-icon-badges.demolab.com/badge/kotlin-0095D5?style=for-the-badge&logo=kotlin&logoColor=white)
 ![](https://custom-icon-badges.demolab.com/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
