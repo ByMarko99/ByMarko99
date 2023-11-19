@@ -7,8 +7,13 @@
 <!-- Img creds: https://cannonbreed.newgrounds.com/
 -->
 
-**`Full Stack Developer (Developer/Creator/Bodybuilder)`**
+<p align="center">
+
+***`Full Stack Developer (Developer/Creator/Bodybuilder)`***
+
+<p>
 ## 🐱‍👤 About Me
+
 I am a self-driven full-stack developer and innovative content architect, crafting my unique digital universe with each endeavor. Every coding venture is meticulously constructed, starting with conceptualization and design, and culminating in the application of code to address real-world challenges. 
 
 During my leisure hours, I engage in the art of bodybuilding, infusing both passion and professionalism into my fitness endeavors.
@@ -61,6 +66,7 @@ During my leisure hours, I engage in the art of bodybuilding, infusing both pass
 
 
 ## 🐱‍👓 My workspace
+
 ![](https://img.shields.io/badge/-Visual%20Studio%20Code-0078d7?style=for-the-badge&logo=Visual%20Studio%20Code&logoColor=white)
 ![](https://img.shields.io/badge/-Visual%20Studio-800080?style=for-the-badge&logo=Visual%20Studio&logoColor=white)
 ![](https://img.shields.io/badge/Github-000?logo=github&style=for-the-badge)
