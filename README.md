@@ -24,16 +24,16 @@ During my leisure hours, I engage in the art of bodybuilding, infusing both pass
 <br>
 
 <p align="left">
-   <a href="https://github.com/ByMarko99?tab=followers">
+   <a href="https://github.com/ByMarko99?tab=followers" style="text-decoration: none;">
       <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/ByMarko99?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/>
    </a>
-   <a href="https://github.com/ByMarko99?tab=repositories&sort=stargazers">
+   <a href="https://github.com/ByMarko99?tab=repositories&sort=stargazers" style="text-decoration: none;">
       <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/ByMarko99?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/>
    </a>
-   <a href="https://github.com/ByMarko99?tab=repositories">
+   <a href="https://github.com/ByMarko99?tab=repositories" style="text-decoration: none;">
       <img alt="repositories" title="My GitHub Repositories" src="https://custom-icon-badges.demolab.com/badge/dynamic/json?color=yellow&label=Repositories&query=$.public_repos&url=https://api.github.com/users/ByMarko99&style=for-the-badge&logo=github&logoColor=yellow"/>
    </a>
-   <a href="https://github.com/ByMarko99">
+   <a href="https://github.com/ByMarko99" style="text-decoration: none;">
       <img alt="ByMarko99's GitHub stats" title="My Profile Views" src="https://komarev.com/ghpvc/?username=ByMarko99&color=FBCC09&style=for-the-badge"/>
    </a>
 </p>
