@@ -2,7 +2,7 @@
 
 <!-- <h1 align="center" style="color:#FBCC09;">ByMarko99 the Coding Ninja</h1>
  -->
-![Header Image](header.gif)
+![Header Image](header2.gif)
 
 <!-- Img creds: https://cannonbreed.newgrounds.com/
 -->
