@@ -93,11 +93,11 @@ During my leisure hours, I engage in the art of bodybuilding, infusing both pass
 | Name | Date | Message |
 |---|---|---|
 | <a href="https://github.com/IrkusAnzola"><img width="24" src="https://avatars.githubusercontent.com/u/98161968?v=4" alt="IrkusAnzola" /> IrkusAnzola</a> |12/1/2023, 8:32:13 PM|El mejor repositorio!|
-| <a href="https://github.com/IbaiG04"><img width="24" src="https://avatars.githubusercontent.com/u/97726677?v=4" alt="IbaiG04" /> IbaiG04 </a> |11/28/2023, 11:46:41 AM|I love this ;) |
+| <a href="https://github.com/IbaiG04"><img width="24" src="https://avatars.githubusercontent.com/u/97726677?v=4" alt="IbaiG04" /> IbaiG04 </a> |11/28/2023, 11:46:41 AM|I love this ;)|
 | <a href="https://github.com/Aritz-Garcia"><img width="24" src="https://avatars.githubusercontent.com/u/73273260?v=4" alt="Aritz-Garcia" /> Aritz-Garcia </a> |11/28/2023, 12:46:41 AM|Great repos lol|
 
 </td>
-<td valign="top"><img src="images/guestbook.gif"></td>
+<td valign="top"><a href="https://github.com/ByMarko99/ByMarko99/issues/1#issuecomment-new"><img src="images/guestbook.gif"></a></td>
   </tr>
 </table>
 
