@@ -97,7 +97,6 @@ During my leisure hours, I engage in the art of bodybuilding, infusing both pass
 | <a href="https://github.com/Aritz-Garcia"><img width="24" src="https://avatars.githubusercontent.com/u/73273260?v=4" alt="Aritz-Garcia" /> Aritz-Garcia </a> |11/28/2023, 12:46:41 AM|Great repos lol|
 
 </td>
-<td>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</td>
 <td valign="top"><img src="images/guestbook.gif"></td>
   </tr>
 </table>
