@@ -1,4 +1,4 @@
-<body style="background-image: url('bc.gif'); background-repeat: repeat;">
+<body style="background-image: url('images/bc.gif'); background-repeat: repeat;">
 
 <!-- <h1 align="center" style="color:#FBCC09;">ByMarko99 the Coding Ninja</h1>
  -->
