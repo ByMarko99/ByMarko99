@@ -54,13 +54,13 @@ During my leisure hours, I engage in the art of bodybuilding, infusing both pass
 ![](https://custom-icon-badges.demolab.com/badge/css3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![](https://custom-icon-badges.demolab.com/badge/bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![](https://custom-icon-badges.demolab.com/badge/tailwind-38B2AC?style=for-the-badge&logo=tailwind&logoColor=white)
+![](https://custom-icon-badges.demolab.com/badge/scss-CF649A?logo=scss&logoColor=white&style=for-the-badge)
 ![](https://custom-icon-badges.demolab.com/badge/xml-FC3232?style=for-the-badge&logo=xml&logoColor=white)
 ![](https://custom-icon-badges.demolab.com/badge/mysql-4479A1?logo=mysql&logoColor=white&style=for-the-badge)
 ![](https://custom-icon-badges.demolab.com/badge/mariadb-003545?logo=mariadb&logoColor=white&style=for-the-badge)
 ![](https://custom-icon-badges.demolab.com/badge/php-777BB4?logo=php&logoColor=white&style=for-the-badge)
 ![](https://custom-icon-badges.demolab.com/badge/laravel-FF2D20?logo=laravel&logoColor=white&style=for-the-badge)
 ![](https://custom-icon-badges.demolab.com/badge/blazor-512BD4?logo=blazor&logoColor=white&style=for-the-badge)
-![](https://custom-icon-badges.demolab.com/badge/scss-512BD4?logo=scss&logoColor=white&style=for-the-badge)
 
 </p>
 
