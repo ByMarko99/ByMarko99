@@ -42,7 +42,7 @@ During my leisure hours, I engage in the art of bodybuilding, infusing both pass
 <p>
 
 [![](https://custom-icon-badges.demolab.com/badge/-Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)](https://nodejs.org/)
-![](https://custom-icon-badges.demolab.com/badge/java-007396?style=for-the-badge&logo=java&logoColor=white)
+![](https://custom-icon-badges.demolab.com/badge/java-white?style=for-the-badge&logo=java&logoColor=orange)
 ![](https://custom-icon-badges.demolab.com/badge/kotlin-0095D5?style=for-the-badge&logo=kotlin&logoColor=white)
 ![](https://custom-icon-badges.demolab.com/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![](https://custom-icon-badges.demolab.com/badge/ajax-0057B8?style=for-the-badge&logo=ajax&logoColor=white)
@@ -81,8 +81,8 @@ During my leisure hours, I engage in the art of bodybuilding, infusing both pass
 ## 📊 Stats
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=ByMarko99&theme=merko&show_icons=true" height="200" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ByMarko99&theme=merko&show_icons=true" height="200" /> 
+  <img src="https://github-readme-stats.vercel.app/api?username=ByMarko99&theme=dracula&show_icons=true" height="200" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ByMarko99&theme=dracula&show_icons=true" height="200" /> 
 </p>
 
 ## 📖 Guestbook
