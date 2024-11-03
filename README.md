@@ -16,7 +16,7 @@ I am a self-driven full-stack developer and innovative content architect, crafti
 During my leisure hours, I engage in the art of bodybuilding, infusing both passion and professionalism into my fitness endeavors.
 
 - 🔭 I’m currently working on developing my coding skills through intensive learning and completing my CV by training and achieving new **certifications** as a student.
-- 🌀 I’m currently learning different frameworks such as **Laravel, Blazor, Angular or Vue**.
+- 🌀 I’m currently learning different frameworks such as **Laravel, Blazor, Angular, Vue or NumPy**.
 - 🐱‍👤 Fun fact: I'm the coding ninja who combines keystrokes with kettlebells, mastering both the virtual and physical realms!
 - ⛩️ Ask me about anything you want to!
 - 📫 How to reach me: markoalmeida4@gmail.com
@@ -61,6 +61,7 @@ During my leisure hours, I engage in the art of bodybuilding, infusing both pass
 ![](https://custom-icon-badges.demolab.com/badge/php-777BB4?logo=php&logoColor=white&style=for-the-badge)
 ![](https://custom-icon-badges.demolab.com/badge/laravel-FF2D20?logo=laravel&logoColor=white&style=for-the-badge)
 ![](https://custom-icon-badges.demolab.com/badge/blazor-512BD4?logo=blazor&logoColor=white&style=for-the-badge)
+![](https://custom-icon-badges.demolab.com/badge/python-512BD4?logo=blazor&logoColor=white&style=for-the-badge)
 
 </p>
 
