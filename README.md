@@ -62,7 +62,7 @@ During my leisure hours, I engage in the art of bodybuilding, infusing both pass
 ![](https://custom-icon-badges.demolab.com/badge/laravel-FF2D20?logo=laravel&logoColor=white&style=for-the-badge)
 ![](https://custom-icon-badges.demolab.com/badge/blazor-512BD4?logo=blazor&logoColor=white&style=for-the-badge)
 ![](https://custom-icon-badges.demolab.com/badge/python-254d8b?logo=python&logoColor=white&style=for-the-badge)
-
+![](https://custom-icon-badges.demolab.com/badge/pyspark-FFFFFF?logo=pyspark&logoColor=orange&style=for-the-badge)
 </p>
 
 
