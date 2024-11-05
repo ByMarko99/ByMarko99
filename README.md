@@ -109,7 +109,7 @@ During my leisure hours, I engage in the art of bodybuilding, infusing both pass
 ## 🤳 Social
 
 [![Discord](https://img.shields.io/badge/-Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/415889981278519306)
-[![Instagram](https://img.shields.io/badge/-Linkedin-FFFFFF?style=for-the-badge&logo=linkedin&logoColor=blue)](https://instagram.com/mzoknx](https://www.linkedin.com/in/marko-gros/)
+[![Linkedin](https://img.shields.io/badge/-Linkedin-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/marko-gros/)
 
 ## 🐱‍🚀 Donations
 
