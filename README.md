@@ -16,7 +16,7 @@ I am a self-driven full-stack developer and innovative content architect, crafti
 During my leisure hours, I engage in the art of bodybuilding, infusing both passion and professionalism into my fitness endeavors.
 
 - 🔭 I’m currently working on developing my coding skills through intensive learning and completing my CV by training and achieving new **certifications** as a student.
-- 🌀 I’m currently learning different frameworks such as **Laravel, Blazor, Angular, Vue, PySpark or Pandas**.
+- 🌀 I’m currently learning different frameworks such as **Laravel, Blazor, Wordpress, Vue, PySpark or Pandas**.
 - 🐱‍👤 Fun fact: I'm the coding ninja who combines keystrokes with kettlebells, mastering both the virtual and physical realms!
 - ⛩️ Ask me about anything you want to!
 - 📫 How to reach me: markoalmeida4@gmail.com
