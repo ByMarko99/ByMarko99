@@ -67,15 +67,16 @@ During my leisure hours, I engage in the art of bodybuilding, infusing both pass
 
 ## 🐱‍👓 My workspace
 
-![](https://img.shields.io/badge/-Visual%20Studio%20Code-0078d7?style=for-the-badge&logo=Visual%20Studio%20Code&logoColor=white)
-![](https://img.shields.io/badge/-Visual%20Studio-800080?style=for-the-badge&logo=Visual%20Studio&logoColor=white)
+![](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7?style=for-the-badge&logo=Visual%20Studio%20Code&logoColor=white)
+![](https://img.shields.io/badge/Visual%20Studio-800080?style=for-the-badge&logo=Visual%20Studio&logoColor=white)
 ![](https://img.shields.io/badge/Github-000?logo=github&style=for-the-badge)
 ![](https://img.shields.io/badge/gitlab-000?logo=gitlab&style=for-the-badge)
-![](https://custom-icon-badges.demolab.com/badge/androidstudio-008000?logo=androidstudio&style=for-the-badge)
+![](https://img.shields.io/badge/ANDROID%20STUDIO-%20?style=for-the-badge&logo=androidstudio&logoColor=ffffff&color=%233DDC84)
 ![](https://custom-icon-badges.demolab.com/badge/eclipse-483D8B?logo=eclipse&logoColor=FFA500&style=for-the-badge)
 ![](https://custom-icon-badges.demolab.com/badge/docker-white?logo=docker&logoColor=1d63ed&style=for-the-badge)
 ![](https://custom-icon-badges.demolab.com/badge/aws-262e3b?logo=aws&logoColor=white&style=for-the-badge)
 ![](https://custom-icon-badges.demolab.com/badge/unity-black?logo=unity&logoColor=white&style=for-the-badge)
+![](https://img.shields.io/badge/ECLIPSE-%20?style=for-the-badge&logo=eclipseide&logoColor=ffffff&color=%232C2255)
 
 
 ## 📊 Stats
@@ -83,6 +84,7 @@ During my leisure hours, I engage in the art of bodybuilding, infusing both pass
 <p align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=ByMarko99&theme=dracula&show_icons=true" height="200" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ByMarko99&theme=dracula&show_icons=true" height="200" /> 
+   <img src="https://streak-stats.demolab.com?user=ByMarko99&theme=dracula&locale=es" height="200" alt="estadicticas racha"  />
 </p>
 
 ## 📖 Guestbook
