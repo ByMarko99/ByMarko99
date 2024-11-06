@@ -64,6 +64,7 @@ During my leisure hours, I engage in the art of bodybuilding, infusing both pass
 ![](https://custom-icon-badges.demolab.com/badge/python-254d8b?logo=python&logoColor=white&style=for-the-badge)
 ![](https://custom-icon-badges.demolab.com/badge/pyspark-FFFFFF?logo=apachespark&logoColor=orange&style=for-the-badge)
 ![](https://img.shields.io/badge/WORDPRESS-%20?style=for-the-badge&logo=wordpress&logoColor=FFFFFF&color=%2321759B)
+![](https://img.shields.io/badge/GIT-%20?style=for-the-badge&logo=git&logoColor=ffffff&color=%23F05032)
 </p>
 
 
