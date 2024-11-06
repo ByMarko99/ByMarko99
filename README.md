@@ -62,7 +62,9 @@ During my leisure hours, I engage in the art of bodybuilding, infusing both pass
 ![](https://custom-icon-badges.demolab.com/badge/laravel-FF2D20?logo=laravel&logoColor=white&style=for-the-badge)
 ![](https://custom-icon-badges.demolab.com/badge/blazor-512BD4?logo=blazor&logoColor=white&style=for-the-badge)
 ![](https://custom-icon-badges.demolab.com/badge/python-254d8b?logo=python&logoColor=white&style=for-the-badge)
-![](https://custom-icon-badges.demolab.com/badge/pyspark-FFFFFF?logo=apachespark&logoColor=orange&style=for-the-badge)</p>
+![](https://custom-icon-badges.demolab.com/badge/pyspark-FFFFFF?logo=apachespark&logoColor=orange&style=for-the-badge)
+![](https://img.shields.io/badge/WORDPRESS-%20?style=for-the-badge&logo=wordpress&logoColor=FFFFFF&color=%2321759B)
+</p>
 
 
 ## 🐱‍👓 My workspace
@@ -76,8 +78,7 @@ During my leisure hours, I engage in the art of bodybuilding, infusing both pass
 ![](https://custom-icon-badges.demolab.com/badge/docker-white?logo=docker&logoColor=1d63ed&style=for-the-badge)
 ![](https://custom-icon-badges.demolab.com/badge/aws-262e3b?logo=aws&logoColor=white&style=for-the-badge)
 ![](https://custom-icon-badges.demolab.com/badge/unity-black?logo=unity&logoColor=white&style=for-the-badge)
-![](https://img.shields.io/badge/ECLIPSE-%20?style=for-the-badge&logo=eclipseide&logoColor=ffffff&color=%232C2255)
-
+![](https://img.shields.io/badge/INTELLIJ%20IDEA-%20?style=for-the-badge&logo=intellijidea&logoColor=ffffff&color=%23000000)
 
 ## 📊 Stats
 
