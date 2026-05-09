@@ -9,11 +9,9 @@
 
 ## 🐱‍👤 About Me
 
-***`Full Stack Developer (Developer/Creator/Bodybuilder)`***
+***`Full Stack Developer (Developer/Creator)`***
 
 I am a self-driven full-stack developer and innovative content architect, crafting my unique digital universe with each endeavor. Every coding venture is meticulously constructed, starting with conceptualization and design, and culminating in the application of code to address real-world challenges. 
-
-During my leisure hours, I engage in the art of bodybuilding, infusing both passion and professionalism into my fitness endeavors.
 
 - 🔭 I’m currently working on developing my coding skills through intensive learning and completing my CV by training and achieving new **certifications** as a student.
 - 🌀 I’m currently learning different frameworks such as **Laravel, Blazor, Wordpress, Vue, PySpark or Pandas**.
