@@ -110,7 +110,7 @@ I am a self-driven full-stack developer and innovative content architect, crafti
 
 ## 🤳 Social
 
-[![Instagram](https://img.shields.io/badge/-Discord-7289DA?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/mzoknx/)
+[![Instagram](https://img.shields.io/badge/-Instagram-e1306c?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/mzoknx/)
 [![Linkedin](https://img.shields.io/badge/-Linkedin-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/marko-gros/)
 [![Gitlab](https://img.shields.io/badge/gitlab-000?logo=gitlab&style=for-the-badge)](https://www.gitlab.com/marko-gros/)
 
